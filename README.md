@@ -16,3 +16,9 @@ npm init --scope=guillaumeisabelle
 npm publish --access public
 ```
 
+### Test
+
+```bash
+yarn add @guillaumeisabelle/tst-dummy --save
+```
+
